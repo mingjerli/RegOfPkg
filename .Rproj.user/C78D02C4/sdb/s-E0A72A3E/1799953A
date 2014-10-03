@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{RegOfPkg-package}\n\\alias{RegOfPkg-package}\n\\alias{RegOfPkg}\n\\docType{package}\n\\title{\nInstall Fund Approved R Packages\n}\n\\description{\nInstall Fund Approved R Packages\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab RegOfPkg\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2014-09-26\\cr\nLicense: \\tab What license is it under?\\cr\n}\n\\code{InstallApprovedPackages(pkgs)}\n}\n\\author{\n}\n\\references{\n}\n\\examples{\nInstallApprovedPackages(c(\"abc\",\"zoo\"))\n}\n",
+    "created" : 1412363207079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2796003513",
+    "id" : "1799953A",
+    "lastKnownWriteTime" : 1412363626,
+    "path" : "~/Rwork/RegOfPkg/man/RegOfPkg-package.Rd",
+    "project_path" : "man/RegOfPkg-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

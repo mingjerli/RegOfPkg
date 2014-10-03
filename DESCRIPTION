@@ -1,0 +1,9 @@
+Package: RegOfPkg
+Type: Package
+Title: Install Fund Approved Packages
+Version: 0.0.1
+Date: 2014-10-03
+Author: Ming-Jer Lee
+Maintainer: Ming-Jer Lee <mingjerli@gmail.com>
+Description: Install Fund Approved Packages
+License: GPL-3
